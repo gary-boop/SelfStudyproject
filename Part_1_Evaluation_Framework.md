@@ -27,7 +27,7 @@ The visualization should also be easy to interpret. Users should be able to quic
 #### 1.	CO2 concentration from 2011-2016:
 ![CO2 concentration](https://www.ucsusa.org/sites/default/files/images/2017/07/400PMM4Eva_720_492_s_c1_c_c.jpg)
   
-Context, Colors and Movement are all covered to in this image. 
+Context, Colors and Movement are all covered in this image. 
 *	Title and key are defined at the top of the chart
 *	Colors shows the CO2 concentration by year covering a span of two months. We can see the variation in CO2 concentration each month, each year. The changing color scale shows the increase in CO2 concentration and the dark color above 400PPM shows how severe it has become
 *	In terms of content this chart paints a clear picture and the audience gets the message what the author wants to convey
