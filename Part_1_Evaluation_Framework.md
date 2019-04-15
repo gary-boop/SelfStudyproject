@@ -57,12 +57,13 @@ Context, Colors and Movement are all covered to in this image.
 *	The different colors show which factors have contributed to the increase in global temperature. The dark lines are the mean and the light shades are the variation. Author should have provided some explanation of this effect
 *	Moreover, the trend is that the temperature is increasing every decade. The author could have shown the info. for years 1960 – 2000. This would have made the image more clear and easier to digest. The audience seems to be lost and needs to spend more time understanding the image to understand the author’s message
 
-#### 5.	Cumulative CO2 emissions:
-![Cumulative CO2 emissions](https://webpages.scu.edu/ftp/ghassija/images/illu_4.png)
-*	Information is conveyed within 5 seconds when someone views this image
-*	Colors accurately show which countries emit the most CO2 until 2016, darker the color, higher the emissions
-*	The color scale moves from left-right which is good in terms of movement principle
-*	Overall, this is a great visualization 
+#### 5.	Volcanic Contribution to Global Warming:
+![VolcanicContribution](https://static.skepticalscience.com/pics/Volcanic_Attribution.png)
+*	This image is simple and easy to interpret
+*	It consists of minimal text and lets the user dig in for more information
+*	A description of all the color types would be helpful
+*	The comparison would be better if the charts are compared vertically instead of horizontally; some users might miss the point that the years scale is different for each of them
+*	This is a good visualization with scope for improvement 
 
 ### Conclusion:
 Good data visualization can improve the quality of insights gleaned from data and the effectiveness to communicate those insights.  As a lot of effort is spent pursuing a data-driven culture, good data visualization becomes invaluable.
@@ -80,5 +81,5 @@ By following the evaluation framework, the quality of graphics can be improved. 
 * Human activity drives climate change (https://www.ucsusa.org/global-warming/science-and-impacts/science/human-contribution-to-gw-faq.html)
 * Level of warming (https://www.wri.org/blog/2015/11/latest-climate-commitments-how-much-will-world-warm-its-complicated)
 * Global temperatue anomalies (http://ossfoundation.us/projects/environment/global-warming/human-caused)
-* Cumulative CO2 emissions (https://ourworldindata.org/grapher/cumulative-co-emissions?time=1751..2016)
+* Volcanic Contribution to Global Warming (https://skepticalscience.com/coming-out-of-ice-age-volcanoes.htm)
 
